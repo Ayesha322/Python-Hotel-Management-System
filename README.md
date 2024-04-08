@@ -24,7 +24,7 @@ How to Use?
 
     cd Python-Hotel-Management-System
     
-     python hotel_management.py
+     HotelManagementSystem.py
 
 
 Follow the on-screen prompts to input customer data, calculate room rent, purchase food, and view the total cost.
