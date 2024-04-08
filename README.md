@@ -17,12 +17,14 @@ How to Use?
 
  1. Clone the repository:
 
-    git clone https://github.com/Ayesha322/Hotel-Management-System-Python.git
+    git clone https://github.com/Ayesha322/Python-Hotel-Management-System.git
 
- 2. Run the program:
 
-    cd Hotel-Management-System-Python
+ 3. Run the program:
 
-    python hotel_management.py
+    cd Python-Hotel-Management-System
+    
+     python hotel_management.py
+
 
 Follow the on-screen prompts to input customer data, calculate room rent, purchase food, and view the total cost.
